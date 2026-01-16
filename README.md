@@ -8,9 +8,9 @@ projetos, processos e operações, o que moldou minha forma de analisar problema
 priorizar soluções e pensar em eficiência.
 
 Atualmente estou focado em construir uma base sólida em:
-- lógica de programação
-- fundamentos de Java
-- versionamento com Git e GitHub
+- Lógica de programação
+- Fundamentos de Java
+- Versionamento com Git e GitHub
 
 Com o tempo, este repositório deve refletir não apenas o que aprendi,
 mas também como passei a pensar sobre desenvolvimento de software.
